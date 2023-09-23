@@ -1,0 +1,2 @@
+download Shakespeare dataset
+ from https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays
